@@ -27,7 +27,7 @@ topic creation...
 .\bin\windows\kafka-topics.bat --zookeeper localhost:2181 --list
 
 Kafka Producer 
-
+Do it/..
 .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic ravi-message
 
  Kafka Consumer
