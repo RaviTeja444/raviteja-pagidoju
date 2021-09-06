@@ -16,7 +16,7 @@ ZooKeeper service....
 
 $ bin/zookeeper-server-start.sh config/zookeeper.properties
 
-Kafka service
+Kafka service...
 
 $ bin/kafka-server-start.sh config/server.properties
 
