@@ -11,7 +11,7 @@ The $ indicates a Bash prompt.
 # Kafka Setting
 ## Following are the commands to be executed
 
-ZooKeeper service
+ZooKeeper service....
 
 $ bin/zookeeper-server-start.sh config/zookeeper.properties
 
