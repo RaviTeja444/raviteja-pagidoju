@@ -3,7 +3,7 @@
 Added Changes
 Download the Kafka and install it to C: drive
 
-The $ indicates a Bash prompt.
+The $ indicates a Bashes prompt.
 
 ```$ tar -xzf kafka_2.13-2.7.0.tgz```
 
