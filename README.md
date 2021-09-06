@@ -10,6 +10,7 @@ The $ indicates a Bash prompt.
 ```$ cd kafka_2.13-2.7.0```
 
 # Kafka Setting
+Changes Again
 ## Following are the commands to be executed
 
 ZooKeeper service....
