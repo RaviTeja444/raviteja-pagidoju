@@ -20,7 +20,7 @@ Kafka service...
 
 $ bin/kafka-server-start.sh config/server.properties
 
-topic creation
+topic creation...
 
 .\bin\windows\kafka-topics.bat --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --create --topic ravi-message
 .\bin\windows\kafka-topics.bat --zookeeper localhost:2181 --list
